@@ -1,2 +1,5 @@
-# individual-work-1
-Module 2 Assignment
+# First Week Assignmet
+
+- Repository
+- Fetching
+- Pushing
